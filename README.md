@@ -1,2 +1,3 @@
-# Kadikoy
-Currently Personal Project
+# Project SBTA
+AI-Powered Space Weather Prediction
+
