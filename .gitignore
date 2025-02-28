@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+
+# Monitoring and logs
+monitoring/*.csv
+monitoring/*.log
+monitoring/report_*.txt
+
+# Models and reports
+models/*.pkl
+reports/*.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment and config
+.env
+keys.txt
+
+# Cache
+cache/
+*.cache
+
+# Test coverage
+.coverage
+htmlcov/

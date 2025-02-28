@@ -1,0 +1,10 @@
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+boto3>=1.34.0
+matplotlib>=3.8.0
+scikit-learn>=1.3.0
+pyarrow>=14.0.1
+psutil>=5.9.0
+dataclasses-json>=0.5.7
+tensorflow>=2.15.0 

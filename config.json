@@ -1,0 +1,20 @@
+{
+    "use_sample_data": true,
+    "save_visualizations": true,
+    "visualization_path": "visualizations/",
+    "report_path": "reports/",
+    "model_path": "models/",
+    "data_cache_path": "cache/",
+    "monitoring_path": "monitoring/",
+    "monitoring": {
+        "enabled": true,
+        "interval": 300,
+        "alert_thresholds": {
+            "cpu_usage": 90,
+            "memory_usage": 90,
+            "disk_usage": 90,
+            "model_accuracy": 0.7,
+            "prediction_time": 1.0
+        }
+    }
+}
